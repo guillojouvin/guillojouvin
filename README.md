@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guillojouvin
 - 🌱 I’m currently learning how to code 
-- 📫 twitter: kobatothemoon
 
 <!---
 guillojouvin/guillojouvin repository because its `README.md` (this file) appears on your GitHub profile.
